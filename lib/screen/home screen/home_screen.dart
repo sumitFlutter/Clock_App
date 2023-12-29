@@ -103,15 +103,15 @@ class _HomeScreenState extends State<HomeScreen> {
                           children: [
                             Icon(
                               Icons.mobile_friendly,
-                              color: Colors.black.withOpacity(1),
+                              color: Colors.red.withOpacity(1),
                             ),
                             Icon(
                               Icons.alarm,
-                              color: Colors.black.withOpacity(1),
+                              color: Colors.blue.withOpacity(1),
                             ),
                             Icon(
                               Icons.alarm_add_sharp,
-                              color: Colors.black.withOpacity(1),
+                              color: Colors.green.withOpacity(1),
                             )
                           ],
                         ),
