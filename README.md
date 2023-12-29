@@ -17,7 +17,7 @@ samples, guidance on mobile development, and a full API reference.
 Screenshots are below 👇
 (In link format)
 AND
-DEMO VIDEO IS IN END OF DESCRIPTION OF APP
+DEMO VIDEO IS IN END OF THE DESCRIPTION 
 <p>
 
 (https://github.com/sumitFlutter/Clock_App/assets/153794386/70d540c5-db94-423d-889c-dc0e99239042)
