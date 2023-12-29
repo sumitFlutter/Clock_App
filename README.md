@@ -22,7 +22,6 @@ DEMO VIDEO IS IN END OF THE DESCRIPTION
 
 (https://github.com/sumitFlutter/Clock_App/assets/153794386/70d540c5-db94-423d-889c-dc0e99239042)
 (https://github.com/sumitFlutter/Clock_App/assets/153794386/943c790c-c24a-4b30-9f61-4a748eb4bac7)
-(https://github.com/sumitFlutter/Clock_App/assets/153794386/f6a631c1-ea52-4c33-ba8a-3b709197112a)
 (https://github.com/sumitFlutter/Clock_App/assets/153794386/7c88cbd8-a72f-4cc4-bdf3-8d293d297c80)
 (https://github.com/sumitFlutter/Clock_App/assets/153794386/9414a2ef-9c48-42b4-a934-07bfe9c53866)
 (https://github.com/sumitFlutter/Clock_App/assets/153794386/dc5576f3-2189-43a3-846b-f6887e27686b)
