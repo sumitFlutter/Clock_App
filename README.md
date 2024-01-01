@@ -34,5 +34,9 @@ DEMO VIDEO IS IN END OF THE DESCRIPTION
 https://github.com/sumitFlutter/Clock_App/assets/153794386/11d5455b-203c-41d0-a122-71c20cc3a19f
 
 
+https://github.com/sumitFlutter/Clock_App/assets/153794386/06f97c03-511c-43c7-b954-ddd287f04205
+
+
+
 </video>
 </p>
